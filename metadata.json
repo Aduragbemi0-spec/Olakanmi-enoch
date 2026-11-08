@@ -1,0 +1,6 @@
+{
+  "name": "MyStack Naija - AI & Tech Scorecard for Nigerian Businesses",
+  "description": "AI readiness diagnostic, tailored starter tech stack, and 7-day action plan for Nigerian online stores and MSMEs in English and Nigerian Pidgin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
